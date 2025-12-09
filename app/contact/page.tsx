@@ -26,7 +26,7 @@ export default function ContactPage() {
   return (
     <div className="min-h-screen bg-gray-100 flex items-center justify-center px-4">
       <div className="bg-white p-8 rounded-xl shadow-lg w-full max-w-lg">
-        <h1 className="text-3xl font-bold mb-6 text-center">Contactez-nous</h1>
+        <h1 className="text-3xl font-bold mb-6 text-center">Hello cloud</h1>
 
         <form onSubmit={handleSubmit} className="space-y-4">
           <div>
